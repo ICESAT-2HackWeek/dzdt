@@ -1,6 +1,5 @@
-# Sample Project
-
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+# #dzdt
+Inspired by this paper (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001538), I want to create a cloud-based(?) workflow where a user can (1) query a region over a permafrost landscape with an AOI, (2) divide data into seasonal (intra-year) and multiannual, end-of-summer time chunks and (3) compute ICESat-2-derived surface subsidence/uplift from crossovers/repeat tracks for the timeframe of interest. This workflow would reveal both seasonal freezing and thawing of the active layer as well as any permanent topographic change associated with thaw-driven erosion (slumps etc). Ideally ArcticDEM and/or visible imagery can be used as a basemap in an interactive map that shows the results. This tool would also be poised to be cross-referenced with the upcoming OPERA DISP product (https://www.jpl.nasa.gov/go/opera/products) which will provide cloud-based InSAR displacement data for Alaska starting Fall 2024.
 
 ## Files
 
